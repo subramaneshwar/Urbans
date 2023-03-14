@@ -1,0 +1,6 @@
+.cardslist{
+    /* border: solid; */
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+}
